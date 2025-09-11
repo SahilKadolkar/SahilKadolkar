@@ -4,34 +4,46 @@
 
 ---
 
-## 🎯 About Me
+Welcome to my GitHub space — where data meets intelligence, and learning meets innovation.
 
-- Bachelor of Technology (Data Science), G.H. Raisoni College of Engineering and Management  
-- Completed internships doing data analysis, model building, dashboards, and exploratory data analysis  
-- Passionate about Machine Learning, Deep Learning, NLP, Prompt Engineering, and AI technologies  
+🎓 I’m a Data Science undergraduate at G. H. Raisoni College of Engineering and Management, Pune, building my journey through Data Analytics, Machine Learning, and AI. With internship experience in real-world business analytics and a passion for solving problems, I thrive on transforming raw data into meaningful insights and intelligent solutions.
 
+## 🚀 My Mission
+To master the craft of Data Science by solving real-world problems through data analysis, visualization, and predictive modeling. With a growing interest in AI, I aim to enhance my data-driven solutions with intelligent systems that create meaningful impact and guide smarter business decisions.
+
+## 🛠️ Tech Stack
+Languages: Python, SQL, C/C++, HTML/CSS
+Tools & Platforms: Power BI, MySQL, Jupyter Notebook, VS Code, Google Colab, Git, Excel, Gemini API
+Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV
+Concepts & Domains: Data Preprocessing, EDA, Data Visualization, KPI Reporting, Machine Learning, Deep Learning, NLP, LLMs, Prompt Engineering
 ---
 
-## 🛠 Technical Skills
+## 📚 Currently Leveling Up
 
-| Area | Tools & Technologies |
-|---|---|
-| Programming Languages | Python, SQL, C/C++ |
-| Data Analysis & Visualization | Pandas, NumPy, Matplotlib, Seaborn, Power BI |
-| Machine Learning / AI | Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV |
-| Databases / SQL | MySQL, SQL |
-| Tools & Platforms | Jupyter Notebook, VS Code, Google Colab, APIs |
+Building projects that blend Data Science and AI 🌐
 
----
+Diving deeper into Machine Learning, Deep Learning, and NLP concepts 🤖
 
-## ✅ Selected Projects
+Learning and experimenting with Large Language Models (LLMs) 🧠
 
-- **Brain Tumor Detection Using CNN** — Built and deployed a convolutional model for classifying MRI scans  
-- **Smart Query Optimization Using LLMs** — Translated natural language questions into SQL queries using LLMs  
-- **Business Performance Analytics Dashboard** — Designed interactive dashboards to display KPIs and trends  
-- **Email Spam Detection** — Used NLP + ML to classify spam vs. non-spam  
+Preparing for interviews in Data Science and Analytics roles 🎯
 
 ---
+## 🧠 What I Bring to the Table
+
+📊 Power BI, Python, SQL, Pandas & NumPy for data analysis, visualization, and KPI reporting
+🤖 Experience as a Data Analyst Intern at CashInvoice and AutoDukan, building dashboards, preprocessing data, and applying ML algorithms
+🧠 Hands-on with Machine Learning, Deep Learning, NLP, and Large Language Models (LLMs), including customer segmentation and CNN-based image classification
+🛠️ Strong foundation in EDA, statistical analysis, data wrangling, and predictive modeling
+---
+## ⚡ Quick Stats  
+
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilKadolkar&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKadolkar&layout=compact&theme=radical)  
+
+
+
 
 ## 📫 Reach Out
 
