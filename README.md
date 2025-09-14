@@ -20,7 +20,7 @@ With a growing interest in **AI**, I aim to enhance my data-driven solutions wit
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Python, SQL, C/C++, HTML/CSS  
+**Languages:** Python, SQL, C/C++, HTML/CSS 
 **Tools & Platforms:** Power BI, MySQL, Jupyter Notebook, VS Code, Google Colab, Git, Excel, Gemini API  
 **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV  
 **Concepts & Domains:** Data Preprocessing, EDA, Data Visualization, KPI Reporting, Machine Learning, Deep Learning, NLP, LLMs, Prompt Engineering  
