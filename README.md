@@ -45,8 +45,9 @@ With a growing interest in **AI**, I aim to enhance my data-driven solutions wit
 
 ## ⚡ Quick Stats  
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilKadolkar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKadolkar&layout=compact&theme=radical)  
+![Sahil's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahilkadolkar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sahilkadolkar&layout=compact&theme=radical)
+  
 
 ---
 
