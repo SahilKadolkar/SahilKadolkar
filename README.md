@@ -43,14 +43,6 @@ With a growing interest in **AI**, I aim to enhance my data-driven solutions wit
 
 ---
 
-## ⚡ Quick Stats  
-
-![Sahil's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahilkadolkar&show_icons=true&theme=radical&v=1)  
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sahilkadolkar&layout=compact&theme=radical&v=1)
-
-
----
-
 ## 📫 Reach Out  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sahil-kadolkar-a93a4a225/)  
 - ✉️ Email: **sahilkadolkar1@gmail.com**  
